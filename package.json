@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Errs404"
+    "url": "git+https://github.com/trickzin"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "Prassz",
+  "author": "trick",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Errs404/Base-Self-Zero/issue"
